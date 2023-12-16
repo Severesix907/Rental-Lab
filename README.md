@@ -2,8 +2,6 @@
 
 Credit to the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) for this template. To complete this project, delete all template text (save for the headers) and fill in your own information.
 
-B
-
 ## Project Intro/Objective
 
 The primary objective of this project is to conduct a comprehensive analysis to evaluate the impact of proximity to transportation-related amenities on the pricing dynamics of rental units. Additionally, a significant consideration will be given to the influence of individuals who maintain an animal as their closest companion, exploring its consequential effect on rental prices. This research endeavors to shed light on the intricate interplay between these variables, aiming to provide valuable insights into the factors influencing the pricing structure of rental properties.
